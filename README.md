@@ -1,1 +1,2 @@
-ICT LABS
+ICT
+LABS
